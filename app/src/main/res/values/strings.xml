@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ErrorHandlingDemo</string>
+    <string name="error_message">This is an error screen that would appear.</string>
+</resources>
